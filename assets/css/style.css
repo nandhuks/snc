@@ -584,7 +584,7 @@ section {
 .about .content ul i {
   font-size: 20px;
   padding-right: 4px;
-  color: #5fcf80;
+  color: #1c257a;
 }
 
 .about .content .learn-more-btn {
@@ -620,7 +620,7 @@ section {
 .counts .counters span {
   font-size: 48px;
   display: block;
-  color: #5fcf80;
+  color: #1d315e;
   font-weight: 700;
 }
 
@@ -638,7 +638,7 @@ section {
 --------------------------------------------------------------*/
 .why-us .content {
   padding: 30px;
-  background: #5fcf80;
+  background: #1d315e;
   border-radius: 4px;
   color: #fff;
 }
@@ -667,7 +667,7 @@ section {
 }
 
 .why-us .content .more-btn:hover {
-  color: #5fcf80;
+  color: #1d315e;
   background: #fff;
 }
 
@@ -682,7 +682,7 @@ section {
 .why-us .icon-boxes .icon-box i {
   font-size: 32px;
   padding: 18px;
-  color: #5fcf80;
+  color: #1d315e;
   margin-bottom: 30px;
   background: #ecf9f0;
   border-radius: 50px;
@@ -734,11 +734,11 @@ section {
 }
 
 .features .icon-box:hover {
-  border-color: #5fcf80;
+  border-color: #1d315e;
 }
 
 .features .icon-box:hover h3 a {
-  color: #5fcf80;
+  color: #1d315e;
 }
 
 /*--------------------------------------------------------------
@@ -764,7 +764,7 @@ section {
 }
 
 .courses .course-content h3 a:hover {
-  color: #5fcf80;
+  color: #1d315e;
 }
 
 .courses .course-content p {
@@ -774,7 +774,7 @@ section {
 
 .courses .course-content h4 {
   font-size: 14px;
-  background: #5fcf80;
+  background: #1d315e;
   padding: 7px 14px;
   color: #fff;
   margin: 0;
@@ -1284,7 +1284,7 @@ section {
 
 .contact .info i {
   font-size: 20px;
-  color: #5fcf80;
+  color: #1d315e;
   float: left;
   width: 44px;
   height: 44px;
